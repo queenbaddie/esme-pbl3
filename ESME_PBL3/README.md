@@ -1,4 +1,4 @@
-# **📦 [X/O Arena (Tictactoe)]**
+# **📦 [A short ride on the metro tramway]**
 
 **MVP Status:** v1.0-Production
 
@@ -36,12 +36,6 @@ Instructions on how to get this project running on a fresh machine.
 Explain how your code is organized. An "Architect-level" README should describe the separation of concerns.
 
 - **main.py**: Entry point of the application. It initializes the Tkinter window, displays the menus, manages the game flow and connects the interface with the game logic.
-
-- **ai/**: Contains the artificial intelligence of the game. It implements the Minimax algorithm used to calculate the best possible move for the AI depending on the selected difficulty level.
-
-- **board/**: Contains the Board class responsible for managing the game grid, checking available moves, detecting a winner, and resetting the board.
-
-- **player/**: Contains the Player class which represents a player and stores the player's symbol (X or O).
 
 
 ## **🧪 Testing & Validation**
