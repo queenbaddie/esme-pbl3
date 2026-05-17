@@ -1,4 +1,4 @@
-# **📦 [A short ride on the metro tramway]**
+# **📦 [A short ride on the metro and tramway]**
 
 **MVP Status:** v1.0-Production
 
@@ -9,8 +9,7 @@
 
 Provide a concise (2-3 sentence) description of what your application does and the specific problem it solves. Why did you build this?
 
-The application is a TicTacToe game where the player can choose to play against another player or against an AI with different levels of difficulty. The goal of the project was to build an interactive graphical application in Python while learning how to structure a program into multiple modules and implement an artificial intelligence using the Minimax algorithm. We chose to develop the project using VSCode because it allows easy collaboration between team members and helps us improve our development workflow.
-
+This application is a offline route planner for the public transport networks of four French cities: Paris, Lyon, Lille, and Bordeaux. It solves the problem of finding the fastest or least-stop route between two stations, taking into account line transfers, by implementing graph traversal algorithms (BFS, DFS) and Dijkstra's shortest path algorithm
 
 ## **🚀 Quick Start (Architect Level: < 60s Setup)**
 
